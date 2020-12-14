@@ -1,21 +1,21 @@
 <br>
 <h1 align = "center">
-<b> {Application Name} </b>
+<b> FriendLetter </b>
 </h1>
 
 <p align = "center">
-#### {Brief description of applicaton}, {Date of current version}
+#### Project for Epicodus, 12.14.2020
 </p>
 
 <p align = "center">
- By {List of contributors}
+ By Kaila Sprague McRae
  </p>
 
 --------------------
 
 ## 📖  Description
 
-{Detailed description, its purpose and usage. What does it does and other information.}
+This project was created by following Epicodus lessons for C# and .NET, Basic Web Applicatons.
 
 --------------------
 
@@ -31,13 +31,10 @@ This project uses the following technologies:
 
 ## 🔧 Setup/Installation Requirements
 
-### View Online
-
-_To view my live website, {Name of Page}, visit_[https://kaila-spraguemcrae.github.io/FINISH-URL](https://kaila-spraguemcrae.github.io/FINISH-URL)
 
 ### Open Locally
 
-Go to my GitHub repository here, [https://guthub.com/kaila.spraguemcrae/FINISH-URL](https://guthub.com/kaila.spraguemcrae/FINISH-URL), and click on the green 'Code' button to clone the repository, Open with GitHub Desktop OR Download the ZIP file
+Go to my GitHub repository here, [https://guthub.com/kaila.spraguemcrae/FriendLetter.Solution](https://guthub.com/kaila.spraguemcrae/FriendLetter.Solution), and click on the green 'Code' button to clone the repository, Open with GitHub Desktop OR Download the ZIP file
 
 #### Necessary Specifications
 
@@ -47,19 +44,13 @@ Go to my GitHub repository here, [https://guthub.com/kaila.spraguemcrae/FINISH-U
 
 #### To clone (my prefered method):
 1. Push the green 'Clone' button and copy the URL.
-2. Open Terminal or GitBash and input the command: `git clone https://github.com/kaila-spraguemcrae/FINISH-URL`
+2. Open Terminal or GitBash and input the command: `git clone https://github.com/kaila-spraguemcrae/FriendLetter.Solution`
 3. To view the code, open the copied directory with Visual Studio Code or your preferred text editor by inputing the command `code .` in your terminal.
 
 #### Running/viewing application:
 
-1. Once you have opened the code in your preferred text editor you will need to navigate to the 'PROJNAME' folder (`cd PROJNAME`) in the command line and run `dotnet run`.
+1. Once you have opened the code in your preferred text editor you will need to navigate to the 'FriendLetter' folder (`cd FriendLetter`) in the command line and run `dotnet run`.
 2. At this point the console application should run as expected. 
-
-#### Running tests:
-
-1. To run MS tests you will need to navigate to the 'PROJNAME.Tests' folder (`cd PROJNAME.Tests`) in the command line and then run `dotnet restore`. 
-2. You should now see 'obj' folders in both the 'PROJNAME.Tests' folder and 'PROJNAME' folder.
-3. At this point you should be able to successfully run `dotnet test` in the command line (keep in mind you should still be in the PROJNAME.Tests folder). 
 
 --------------------------
 
